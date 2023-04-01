@@ -1,2 +1,3 @@
-# javascrypt
+# javascript
  course javascript
+ 
